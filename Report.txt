@@ -76,6 +76,7 @@ Near-perfect performance: Only 4% false positives and 0 false negatives
 Best performing class: Model excels at identifying high-risk cases
 	
 Confusion Matrix:
+![alt text](image.png)
 Confusion Patterns:
 Primary confusion between Low (0) and Medium (1) risk
 Almost no High-risk cases misclassified
